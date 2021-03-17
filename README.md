@@ -1,1 +1,18 @@
-# translate_youtube_live_chat_gui
+このプログラムはQiitaの記事で作成されているものです。
+私が作成したわけではありません。
+少しでも利用しやすくなればと思い配布いたします。
+
+↓ソースコード
+https://qiita.com/KawaiKatori/items/7bf4e1d34d71275f9362
+
+まず、Pythonをご自分のPCにインストールしてください。
+https://www.python.org/
+
+Pythonのプログラムの実行に必要なライブラリのインストールを行います。
+「必要ライブラリインストール.bat」を実行してください。
+この時、「pip」にパスが通っていないとインストールできないので、
+以下のサイトを参考にパスを通してください。
+https://karupoimou.hatenablog.com/entry/2019/04/29/064646
+
+インストールが完了したら「start.bat」をダブルクリックして
+プログラムを実行してください。
